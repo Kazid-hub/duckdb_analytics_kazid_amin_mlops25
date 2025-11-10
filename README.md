@@ -1,0 +1,2 @@
+# duckdb_analytics_kazid_amin_mlops25
+Learning duckdb
